@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+#include "video.h" 
+
+// example of how functions are specified
+void Video::print()
+{
+    // the code for the print function goes here
+
+    cout << "hello\n";
+
+
+}
+
